@@ -1,0 +1,15 @@
+<odoo>
+  <data>
+      <record model="ir.ui.view" id="maintenance_schedule_view_form">
+      <field name="name">maintenance_schedule</field>
+      <field name="model">maintenance.request</field>
+      <field name="inherit_id" ref="maintenance.hr_equipment_request_view_form"/>
+      <field name="arch" type="xml">
+        <label for="schedule_date"/>
+        <div class="o_row">
+            <field name="end_date" position="inside"/>
+        </div>
+      </field>
+    </record>
+  </data>
+</odoo>

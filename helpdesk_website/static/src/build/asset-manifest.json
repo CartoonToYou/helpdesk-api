@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9d54faca.chunk.css",
+    "main.js": "./static/js/main.b72b7de5.chunk.js",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "static/css/2.ac62f711.chunk.css": "./static/css/2.ac62f711.chunk.css",
+    "static/js/2.545f03ea.chunk.js": "./static/js/2.545f03ea.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.3ab95a3ac485941588095aa839abedf9.js": "./precache-manifest.3ab95a3ac485941588095aa839abedf9.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/main.scss": "./static/media/IBMPlexThai-Thin.9bbf75d9.woff2",
+    "static/media/bin-white.svg": "./static/media/bin-white.89c3d5fa.svg",
+    "static/media/broadcast.svg": "./static/media/broadcast.107eee32.svg",
+    "static/media/chevron.svg": "./static/media/chevron.96da6131.svg",
+    "static/media/comment.svg": "./static/media/comment.45983ea2.svg",
+    "static/media/finish-report-private.svg": "./static/media/finish-report-private.3e8479a0.svg",
+    "static/media/finish-report-public.svg": "./static/media/finish-report-public.d5d15502.svg",
+    "static/media/fix.svg": "./static/media/fix.e0a7a059.svg",
+    "static/media/global.svg": "./static/media/global.8f1b7136.svg",
+    "static/media/icon-back-disabled.svg": "./static/media/icon-back-disabled.9997da2f.svg",
+    "static/media/icon-back.svg": "./static/media/icon-back.d68bf51d.svg",
+    "static/media/lock.svg": "./static/media/lock.3d773a0a.svg",
+    "static/media/pencil.svg": "./static/media/pencil.c6f2ff12.svg",
+    "static/media/plus.svg": "./static/media/plus.14e74331.svg"
+  }
+}

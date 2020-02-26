@@ -1,0 +1,19 @@
+<odoo>
+  <data>
+
+    <record model="ir.ui.view" id="ticket_team_form_view">
+      <field name="name">helpdesk.ticket.team.category</field>
+      <field name="model">helpdesk.ticket.team</field>
+      <field name="inherit_id" ref="helpdesk_mgmt.view_helpdesk_team_form"/>
+      <field name="arch" type="xml">
+        <sheet position="inside">
+          <group name="main">
+            <!-- <label for="category_ids" /> -->
+            <field name="category_ids" widget="many2many_tags"/>
+          </group>
+        </sheet>
+      </field>
+    </record>
+
+  </data>
+</odoo>
